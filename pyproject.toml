@@ -9,4 +9,4 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-dmk-packages = { git = "https://${GITHUB_TOKEN}@github.com/datamktkorea/dmk-packages.git" }
+dmk-packages = { git = "https://github.com/datamktkorea/dmk-packages.git" }
